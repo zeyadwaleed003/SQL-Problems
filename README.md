@@ -6,6 +6,6 @@ This repository contains my solutions to SQL problems. This collection features 
 
 ### Easy
 
-- [2356. Number of Unique Subjects Taught by Each Teacher](https://leetcode.com/problems/number-of-unique-subjects-taught-by-each-teacher/description/) - [Solution](./LeetCode/001.sql)
+- [2356. Number of Unique Subjects Taught by Each Teacher](https://leetcode.com/problems/number-of-unique-subjects-taught-by-each-teacher/description/) - [Solution](https://github.com/zeyadwaleed003/SQL-Problems/blob/main/LeetCode/001.sql)
 
 - [1978. Employees Whose Manager Left the Company](https://leetcode.com/problems/employees-whose-manager-left-the-company/) - [Solution](002.sql)
