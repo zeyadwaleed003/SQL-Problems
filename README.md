@@ -87,3 +87,43 @@ This repository contains my solutions to SQL problems. This collection features 
 - [181. Employees Earning More Than Their Manager](https://leetcode.com/problems/employees-earning-more-than-their-managers) - [Solution](https://github.com/zeyadwaleed003/SQL-Problems/blob/main/LeetCode/040.sql)
 
 - [175. Combine Two Tables](https://leetcode.com/problems/combine-two-tables) - [Solution](https://github.com/zeyadwaleed003/SQL-Problems/blob/main/LeetCode/041.sql)
+
+### Medium
+
+- [1934. Confirmation Rate](https://leetcode.com/problems/confirmation-rate) - [Solution](https://github.com/zeyadwaleed003/SQL-Problems/blob/main/LeetCode/042.sql)
+
+- [1907. Count Salary Categories](https://leetcode.com/problems/count-salary-categories) - [Solution](https://github.com/zeyadwaleed003/SQL-Problems/blob/main/LeetCode/043.sql)
+
+- [1341. Movie Rating](https://leetcode.com/problems/movie-rating) - [Solution](https://github.com/zeyadwaleed003/SQL-Problems/blob/main/LeetCode/044.sql)
+
+- [1321. Restaurant Growth](https://leetcode.com/problems/restaurant-growth) - [Solution](https://github.com/zeyadwaleed003/SQL-Problems/blob/main/LeetCode/045.sql)
+
+- [1204. Last Person to Fit in the Bus](https://leetcode.com/problems/last-person-to-fit-in-the-bus) - [Solution](https://github.com/zeyadwaleed003/SQL-Problems/blob/main/LeetCode/046.sql)
+
+- [1193. Monthly Transactions I](https://leetcode.com/problems/monthly-transactions-i) - [Solution](https://github.com/zeyadwaleed003/SQL-Problems/blob/main/LeetCode/047.sql)
+
+- [1174. Immediate Food Delivery II](https://leetcode.com/problems/immediate-food-delivery-ii) - [Solution](https://github.com/zeyadwaleed003/SQL-Problems/blob/main/LeetCode/048.sql)
+
+- [1164. Product Price at a Given Date](https://leetcode.com/problems/product-price-at-a-given-date) - [Solution](https://github.com/zeyadwaleed003/SQL-Problems/blob/main/LeetCode/049.sql)
+
+- [550. Game Play Analysis IV](https://leetcode.com/problems/game-play-analysis-iv) - [Solution](https://github.com/zeyadwaleed003/SQL-Problems/blob/main/LeetCode/050.sql)
+
+- [1070. Product Sales Analysis III](https://leetcode.com/problems/product-sales-analysis-iii) - [Solution](https://github.com/zeyadwaleed003/SQL-Problems/blob/main/LeetCode/051.sql)
+
+- [1045. Customers Who Bought All Products](https://leetcode.com/problems/customers-who-bought-all-products) - [Solution](https://github.com/zeyadwaleed003/SQL-Problems/blob/main/LeetCode/052.sql)
+
+- [626. Exchange Seats](https://leetcode.com/problems/exchange-seats) - [Solution](https://github.com/zeyadwaleed003/SQL-Problems/blob/main/LeetCode/053.sql)
+
+- [602. Friend Requests II: Who Has the Most Friends](https://leetcode.com/problems/friend-requests-ii-who-has-the-most-friends) - [Solution](https://github.com/zeyadwaleed003/SQL-Problems/blob/main/LeetCode/054.sql)
+
+- [585. Investments in 2016](https://leetcode.com/problems/investments-in-2016) - [Solution](https://github.com/zeyadwaleed003/SQL-Problems/blob/main/LeetCode/055.sql)
+
+- [570. Managers with at Least 5 Direct Reports](https://leetcode.com/problems/managers-with-at-least-5-direct-reports) - [Solution](https://github.com/zeyadwaleed003/SQL-Problems/blob/main/LeetCode/056.sql)
+
+- [180. Consecutive Numbers](https://leetcode.com/problems/consecutive-numbers) - [Solution](https://github.com/zeyadwaleed003/SQL-Problems/blob/main/LeetCode/057.sql)
+
+- [176. Second Highest Salary](https://leetcode.com/problems/second-highest-salary) - [Solution](https://github.com/zeyadwaleed003/SQL-Problems/blob/main/LeetCode/058.sql)
+
+### Hard
+
+- [185. Department Top Three Salaries](https://leetcode.com/problems/department-top-three-salaries) - [Solution](https://github.com/zeyadwaleed003/SQL-Problems/blob/main/LeetCode/059.sql)
