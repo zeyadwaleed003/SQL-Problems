@@ -1,6 +1,6 @@
 # SQL Problem Solutions
 
-This repository contains my solutions to SQL problems. This collection features SQL problems categorized by difficulty: Easy, Medium, and Hard. Each entry includes a link to the problem and my solution.
+This repository contains my solutions to SQL problems. This collection features SQL problems solved using SQL Server, categorized by difficulty: Easy, Medium, and Hard. Each entry includes a link to the problem and my solution.
 
 If you have feedback or suggestions, feel free to open an issue or reach out!
 
