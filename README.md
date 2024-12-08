@@ -92,6 +92,16 @@ If you have feedback or suggestions, feel free to open an issue or reach out!
 
 - [1965. Employees With Missing Information](https://leetcode.com/problems/employees-with-missing-information) - [Solution](https://github.com/zeyadwaleed003/SQL-Problems/blob/main/LeetCode/060.sql)
 
+- [1890. The Latest Login in 2020](https://leetcode.com/problems/the-latest-login-in-2020) - [Solution](https://github.com/zeyadwaleed003/SQL-Problems/blob/main/LeetCode/061.sql)
+
+- [1873. Calculate Special Bonus](https://leetcode.com/problems/calculate-special-bonus) - [Solution](https://github.com/zeyadwaleed003/SQL-Problems/blob/main/LeetCode/062.sql)
+
+- [1795. Rearrange Products Table](https://leetcode.com/problems/rearrange-products-table) - [Solution](https://github.com/zeyadwaleed003/SQL-Problems/blob/main/LeetCode/063.sql)
+
+- [1741. Find Total Time Spent by Each Employee](https://leetcode.com/problems/find-total-time-spent-by-each-employee) - [Solution](https://github.com/zeyadwaleed003/SQL-Problems/blob/main/LeetCode/064.sql)
+
+- [1693. Daily Leads and Partners](https://leetcode.com/problems/daily-leads-and-partners) - [Solution](https://github.com/zeyadwaleed003/SQL-Problems/blob/main/LeetCode/065.sql)
+
 ### Medium
 
 - [1934. Confirmation Rate](https://leetcode.com/problems/confirmation-rate) - [Solution](https://github.com/zeyadwaleed003/SQL-Problems/blob/main/LeetCode/042.sql)
