@@ -90,6 +90,8 @@ If you have feedback or suggestions, feel free to open an issue or reach out!
 
 - [175. Combine Two Tables](https://leetcode.com/problems/combine-two-tables) - [Solution](https://github.com/zeyadwaleed003/SQL-Problems/blob/main/LeetCode/041.sql)
 
+- [1965. Employees With Missing Information](https://leetcode.com/problems/employees-with-missing-information) - [Solution](https://github.com/zeyadwaleed003/SQL-Problems/blob/main/LeetCode/060.sql)
+
 ### Medium
 
 - [1934. Confirmation Rate](https://leetcode.com/problems/confirmation-rate) - [Solution](https://github.com/zeyadwaleed003/SQL-Problems/blob/main/LeetCode/042.sql)
