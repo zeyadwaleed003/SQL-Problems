@@ -106,6 +106,10 @@ If you have feedback or suggestions, feel free to open an issue or reach out!
 
 - [1407. Top Travellers](https://leetcode.com/problems/top-travellers) - [Solution](https://github.com/zeyadwaleed003/SQL-Problems/blob/main/LeetCode/067.sql)
 
+- [1179. Reformat Department Table](https://leetcode.com/problems/reformat-department-table) - [Solution](https://github.com/zeyadwaleed003/SQL-Problems/blob/main/LeetCode/068.sql)
+
+- [1084. Sales Analysis III](https://leetcode.com/problems/sales-analysis-iii) - [Solution](https://github.com/zeyadwaleed003/SQL-Problems/blob/main/LeetCode/069.sql)
+
 ### Medium
 
 - [1934. Confirmation Rate](https://leetcode.com/problems/confirmation-rate) - [Solution](https://github.com/zeyadwaleed003/SQL-Problems/blob/main/LeetCode/042.sql)
