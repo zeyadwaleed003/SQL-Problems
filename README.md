@@ -102,6 +102,10 @@ If you have feedback or suggestions, feel free to open an issue or reach out!
 
 - [1693. Daily Leads and Partners](https://leetcode.com/problems/daily-leads-and-partners) - [Solution](https://github.com/zeyadwaleed003/SQL-Problems/blob/main/LeetCode/065.sql)
 
+- [1587. Bank Account Summary II](https://leetcode.com/problems/bank-account-summary-ii) - [Solution](https://github.com/zeyadwaleed003/SQL-Problems/blob/main/LeetCode/066.sql)
+
+- [1407. Top Travellers](https://leetcode.com/problems/top-travellers) - [Solution](https://github.com/zeyadwaleed003/SQL-Problems/blob/main/LeetCode/067.sql)
+
 ### Medium
 
 - [1934. Confirmation Rate](https://leetcode.com/problems/confirmation-rate) - [Solution](https://github.com/zeyadwaleed003/SQL-Problems/blob/main/LeetCode/042.sql)
