@@ -146,6 +146,14 @@ If you have feedback or suggestions, feel free to open an issue or reach out!
 
 - [176. Second Highest Salary](https://leetcode.com/problems/second-highest-salary) - [Solution](https://github.com/zeyadwaleed003/SQL-Problems/blob/main/LeetCode/058.sql)
 
+- [3220. Odd and Even Transactions](https://leetcode.com/problems/odd-and-even-transactions) - [Solution](https://github.com/zeyadwaleed003/SQL-Problems/blob/main/LeetCode/070.sql)
+
+- [1393. Capital Gain/Loss](https://leetcode.com/problems/capital-gainloss) - [Solution](https://github.com/zeyadwaleed003/SQL-Problems/blob/main/LeetCode/071.sql)
+
+- [1158. Market Analysis I](https://leetcode.com/problems/market-analysis-i) - [Solution](https://github.com/zeyadwaleed003/SQL-Problems/blob/main/LeetCode/072.sql)
+
+- [608. Tree Node](https://leetcode.com/problems/tree-node) - [Solution](https://github.com/zeyadwaleed003/SQL-Problems/blob/main/LeetCode/072.sql)
+
 ### Hard
 
 - [185. Department Top Three Salaries](https://leetcode.com/problems/department-top-three-salaries) - [Solution](https://github.com/zeyadwaleed003/SQL-Problems/blob/main/LeetCode/059.sql)
