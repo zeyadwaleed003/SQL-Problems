@@ -152,7 +152,7 @@ If you have feedback or suggestions, feel free to open an issue or reach out!
 
 - [1158. Market Analysis I](https://leetcode.com/problems/market-analysis-i) - [Solution](https://github.com/zeyadwaleed003/SQL-Problems/blob/main/LeetCode/072.sql)
 
-- [608. Tree Node](https://leetcode.com/problems/tree-node) - [Solution](https://github.com/zeyadwaleed003/SQL-Problems/blob/main/LeetCode/072.sql)
+- [608. Tree Node](https://leetcode.com/problems/tree-node) - [Solution](https://github.com/zeyadwaleed003/SQL-Problems/blob/main/LeetCode/073.sql)
 
 ### Hard
 
