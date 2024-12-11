@@ -154,6 +154,12 @@ If you have feedback or suggestions, feel free to open an issue or reach out!
 
 - [608. Tree Node](https://leetcode.com/problems/tree-node) - [Solution](https://github.com/zeyadwaleed003/SQL-Problems/blob/main/LeetCode/073.sql)
 
+- [184. Department Highest Salary](https://leetcode.com/problems/department-highest-salary) - [Solution](https://github.com/zeyadwaleed003/SQL-Problems/blob/main/LeetCode/074.sql)
+
+- [178. Rank Scores](https://leetcode.com/problems/rank-scores) - [Solution](https://github.com/zeyadwaleed003/SQL-Problems/blob/main/LeetCode/075.sql)
+
+- [177. Nth Highest Salary](https://leetcode.com/problems/nth-highest-salary) - [Solution](https://github.com/zeyadwaleed003/SQL-Problems/blob/main/LeetCode/076.sql)
+
 ### Hard
 
 - [185. Department Top Three Salaries](https://leetcode.com/problems/department-top-three-salaries) - [Solution](https://github.com/zeyadwaleed003/SQL-Problems/blob/main/LeetCode/059.sql)
