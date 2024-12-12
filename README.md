@@ -163,3 +163,5 @@ If you have feedback or suggestions, feel free to open an issue or reach out!
 ### Hard
 
 - [185. Department Top Three Salaries](https://leetcode.com/problems/department-top-three-salaries) - [Solution](https://github.com/zeyadwaleed003/SQL-Problems/blob/main/LeetCode/059.sql)
+
+- [601. Human Traffic of Stadium](https://leetcode.com/problems/human-traffic-of-stadium) - [Solution](https://github.com/zeyadwaleed003/SQL-Problems/blob/main/LeetCode/077.sql)
